@@ -1,0 +1,409 @@
+fileFormatVersion: 2
+guid: 8d4047101187c4848b55a4e5be230f69
+timeCreated: 1460391154
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: door
+    100002: door 1
+    100004: door2
+    100006: door2 1
+    100008: door3
+    100010: door3 1
+    100012: door4
+    100014: door4 1
+    100016: door5
+    100018: door5 1
+    100020: door_wall
+    100022: door_wall1
+    100024: doors_wall1
+    100026: exterior_wall2
+    100028: fire2
+    100030: fire4
+    100032: floor
+    100034: floor2
+    100036: glass
+    100038: glass 1
+    100040: glass2
+    100042: glass2 1
+    100044: glass3
+    100046: glass3 1
+    100048: glass4
+    100050: glass4 1
+    100052: glass5
+    100054: glass5 1
+    100056: group1
+    100058: group2
+    100060: group3
+    100062: group5
+    100064: group8
+    100066: //RootNode
+    100068: light
+    100070: light1
+    100072: light2
+    100074: light2 1
+    100076: painting
+    100078: pan
+    100080: pCube11
+    100082: pCube119
+    100084: pCube22
+    100086: pCube23
+    100088: pCube24
+    100090: pCube25
+    100092: pCube26
+    100094: pCube27
+    100096: pCube28
+    100098: pCube29
+    100100: pCube29 1
+    100102: pCube30
+    100104: pCube31
+    100106: pCube32
+    100108: pCube33
+    100110: pCube34
+    100112: pCube36
+    100114: pCube37
+    100116: pCube38
+    100118: pCube39
+    100120: pCylinder1
+    100122: pCylinder2
+    100124: pCylinder3
+    100126: pPlane5
+    100128: pPlane6
+    100130: pPlane7
+    100132: pTorus1
+    100134: puff
+    100136: puff1
+    100138: puff2
+    100140: puff3
+    100142: puff4
+    100144: roof
+    100146: roof1
+    100148: sand_box
+    100150: swords
+    100152: swords 1
+    100154: table
+    100156: transform1
+    100158: transform2
+    100160: transform3
+    100162: transform4
+    100164: transform5
+    100166: transform6
+    100168: wall
+    100170: white_wall
+    400000: door
+    400002: door 1
+    400004: door2
+    400006: door2 1
+    400008: door3
+    400010: door3 1
+    400012: door4
+    400014: door4 1
+    400016: door5
+    400018: door5 1
+    400020: door_wall
+    400022: door_wall1
+    400024: doors_wall1
+    400026: exterior_wall2
+    400028: fire2
+    400030: fire4
+    400032: floor
+    400034: floor2
+    400036: glass
+    400038: glass 1
+    400040: glass2
+    400042: glass2 1
+    400044: glass3
+    400046: glass3 1
+    400048: glass4
+    400050: glass4 1
+    400052: glass5
+    400054: glass5 1
+    400056: group1
+    400058: group2
+    400060: group3
+    400062: group5
+    400064: group8
+    400066: //RootNode
+    400068: light
+    400070: light1
+    400072: light2
+    400074: light2 1
+    400076: painting
+    400078: pan
+    400080: pCube11
+    400082: pCube119
+    400084: pCube22
+    400086: pCube23
+    400088: pCube24
+    400090: pCube25
+    400092: pCube26
+    400094: pCube27
+    400096: pCube28
+    400098: pCube29
+    400100: pCube29 1
+    400102: pCube30
+    400104: pCube31
+    400106: pCube32
+    400108: pCube33
+    400110: pCube34
+    400112: pCube36
+    400114: pCube37
+    400116: pCube38
+    400118: pCube39
+    400120: pCylinder1
+    400122: pCylinder2
+    400124: pCylinder3
+    400126: pPlane5
+    400128: pPlane6
+    400130: pPlane7
+    400132: pTorus1
+    400134: puff
+    400136: puff1
+    400138: puff2
+    400140: puff3
+    400142: puff4
+    400144: roof
+    400146: roof1
+    400148: sand_box
+    400150: swords
+    400152: swords 1
+    400154: table
+    400156: transform1
+    400158: transform2
+    400160: transform3
+    400162: transform4
+    400164: transform5
+    400166: transform6
+    400168: wall
+    400170: white_wall
+    2300000: door
+    2300002: door 1
+    2300004: door2
+    2300006: door2 1
+    2300008: door3
+    2300010: door3 1
+    2300012: door4
+    2300014: door4 1
+    2300016: door5
+    2300018: door5 1
+    2300020: exterior_wall2
+    2300022: floor
+    2300024: floor2
+    2300026: glass
+    2300028: glass 1
+    2300030: glass2
+    2300032: glass2 1
+    2300034: glass3
+    2300036: glass3 1
+    2300038: glass4
+    2300040: glass4 1
+    2300042: glass5
+    2300044: glass5 1
+    2300046: light1
+    2300048: light2 1
+    2300050: pCube11
+    2300052: pCube119
+    2300054: pCube22
+    2300056: pCube23
+    2300058: pCube24
+    2300060: pCube25
+    2300062: pCube26
+    2300064: pCube27
+    2300066: pCube28
+    2300068: pCube29
+    2300070: pCube36
+    2300072: pCube37
+    2300074: pCube38
+    2300076: pCube39
+    2300078: pCylinder1
+    2300080: pCylinder2
+    2300082: pCylinder3
+    2300084: pPlane5
+    2300086: pPlane6
+    2300088: pPlane7
+    2300090: pTorus1
+    2300092: puff1
+    2300094: puff2
+    2300096: puff3
+    2300098: puff4
+    2300100: roof
+    2300102: roof1
+    2300104: sand_box
+    2300106: table
+    2300108: white_wall
+    3300000: door
+    3300002: door 1
+    3300004: door2
+    3300006: door2 1
+    3300008: door3
+    3300010: door3 1
+    3300012: door4
+    3300014: door4 1
+    3300016: door5
+    3300018: door5 1
+    3300020: exterior_wall2
+    3300022: floor
+    3300024: floor2
+    3300026: glass
+    3300028: glass 1
+    3300030: glass2
+    3300032: glass2 1
+    3300034: glass3
+    3300036: glass3 1
+    3300038: glass4
+    3300040: glass4 1
+    3300042: glass5
+    3300044: glass5 1
+    3300046: light1
+    3300048: light2 1
+    3300050: pCube11
+    3300052: pCube119
+    3300054: pCube22
+    3300056: pCube23
+    3300058: pCube24
+    3300060: pCube25
+    3300062: pCube26
+    3300064: pCube27
+    3300066: pCube28
+    3300068: pCube29
+    3300070: pCube36
+    3300072: pCube37
+    3300074: pCube38
+    3300076: pCube39
+    3300078: pCylinder1
+    3300080: pCylinder2
+    3300082: pCylinder3
+    3300084: pPlane5
+    3300086: pPlane6
+    3300088: pPlane7
+    3300090: pTorus1
+    3300092: puff1
+    3300094: puff2
+    3300096: puff3
+    3300098: puff4
+    3300100: roof
+    3300102: roof1
+    3300104: sand_box
+    3300106: table
+    3300108: white_wall
+    4300000: table
+    4300002: sand_box
+    4300004: floor
+    4300006: roof
+    4300008: roof1
+    4300010: white_wall
+    4300012: exterior_wall2
+    4300014: floor2
+    4300016: pCylinder1
+    4300018: pPlane5
+    4300020: pCylinder2
+    4300022: door5
+    4300024: door4
+    4300026: door
+    4300028: door2
+    4300030: door3
+    4300032: glass5
+    4300034: glass4
+    4300036: glass3
+    4300038: glass2
+    4300040: glass
+    4300042: door5
+    4300044: door4
+    4300046: door
+    4300048: door2
+    4300050: door3
+    4300052: glass5
+    4300054: glass4
+    4300056: glass3
+    4300058: glass2
+    4300060: glass
+    4300062: pCube119
+    4300064: pPlane6
+    4300066: pCube38
+    4300068: pCube37
+    4300070: pCube29
+    4300072: pCube36
+    4300074: pCube28
+    4300076: pTorus1
+    4300078: pCube25
+    4300080: pCube23
+    4300082: pCube24
+    4300084: pCube27
+    4300086: pCube26
+    4300088: pCube22
+    4300090: puff1
+    4300092: puff2
+    4300094: puff3
+    4300096: puff4
+    4300098: pCube39
+    4300100: light2
+    4300102: light1
+    4300104: pCube11
+    4300106: pPlane7
+    4300108: pCylinder3
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
